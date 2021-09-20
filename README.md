@@ -7,7 +7,7 @@
      
      [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/An_Indian_Otaku)
      [![Linkedin](https://img.shields.io/badge/-Linkedln-blue)](https://www.linkedin.com/in/sidharth-d-8aaa03219/)
-     [![Instagram](https://img.shields.io/badge/-Instagram-blue)](https://www.instagram.com/BruhOtaku/)
+     [![Instagram](https://img.shields.io/badge/-Instagram-blue)](https://www.instagram.com/an_indian_otaku_/)
      
 
 
