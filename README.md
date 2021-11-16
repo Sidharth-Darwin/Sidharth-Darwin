@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Sidharth D and I'm [Indian-otaku](https://github.com/Indian-otaku)
 - 👀 I’m interested in Machine Learning and Deep Learning.
-- 🌱 I’m currently learning how to use github.
+- 🌱 I’m currently learning machine learning in Python, R programming, Java and how to use github.
 - 💞️ I’m looking forward to collaborate.
 - 📫 How to reach me: 
 
