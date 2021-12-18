@@ -13,3 +13,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indian-otaku)](https://github.com/Indian-otaku/github-readme-stats)
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Indian-otaku&repo=Pascals-Triangle)](https://github.com/Indian-otaku/Pascals-Triangle)
