@@ -10,8 +10,6 @@
      [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/An_Indian_Otaku)
      [![Linkedin](https://img.shields.io/badge/-Linkedln-blue)](https://www.linkedin.com/in/sidharth-d-8aaa03219/)
 
-![Sidharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indian-otaku&show_icons=true&theme=tokyonight&border_radius=30)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indian-otaku&theme=tokyonight&border_radius=30)](https://github.com/Indian-otaku/github-readme-stats)
 
