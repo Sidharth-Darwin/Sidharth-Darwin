@@ -7,7 +7,6 @@
 - 📫 **How to reach me:**
 
      
-     [![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/An_Indian_Otaku)
      [![Linkedin](https://img.shields.io/badge/-Linkedln-blue)](https://www.linkedin.com/in/sidharth-d-8aaa03219/)
 
 
