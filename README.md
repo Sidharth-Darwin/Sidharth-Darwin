@@ -9,6 +9,20 @@ Machine Learning Enthusiast
 * 🧠  I'm learning Machine Learning, Deep Learning and Artificial Intelligence.
 * 🤝  I'm open to collaborating on interesting projects.
 
+
+<details>
+  <summary>Click to get a random joke</summary>
+  <div align="center">
+    
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+  
+  </div>
+</details>
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 ### Skills
 
 
