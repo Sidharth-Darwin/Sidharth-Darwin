@@ -10,7 +10,7 @@
      [![Linkedin](https://img.shields.io/badge/-Linkedln-blue)](https://www.linkedin.com/in/sidharth-d-8aaa03219/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Indian-otaku&theme=tokyonight&border_radius=30)](https://github.com/Indian-otaku/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharth-Darwin&theme=tokyonight&border_radius=30)](https://github.com/Indian-otaku/github-readme-stats)
 
 
 <!---
