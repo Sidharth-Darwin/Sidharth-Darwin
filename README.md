@@ -41,7 +41,7 @@ Machine Learning Enthusiast
 
 <a href="https://app.daily.dev/sidharthd"><img src="https://api.daily.dev/devcards/v2/HraguiSmTS9NZpSqtiK9A.png?type=default&r=iqs" width="356" alt="Sidharth D's Dev Card"/></a>
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Indian-otaku)](https://github.com/ignacio-cuadra/github-readme-codewars)
+[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Indian-otaku&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
 <a href="http://www.github.com/Sidharth-Darwin"><img src="https://github-readme-stats.vercel.app/api?username=Sidharth-Darwin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sidharth-Darwin's GitHub stats" /></a>
 
