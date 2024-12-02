@@ -43,7 +43,7 @@ Machine Learning Enthusiast
 
 ### Badges
 
-<a href="https://app.daily.dev/sidharthd"><img src="https://api.daily.dev/devcards/v2/HraguiSmTS9NZpSqtiK9A.png?type=default&r=iqs" width="356" alt="Sidharth D's Dev Card"/></a>
+<a href="https://app.daily.dev/sidharthd"><img src="https://api.daily.dev/devcards/v2/HraguiSmTS9NZpSqtiK9A.png?type=wide&r=3pt" width="652" alt="Sidharth D's Dev Card"/></a>
 
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Indian-otaku&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
 
