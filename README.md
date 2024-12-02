@@ -45,8 +45,6 @@ Machine Learning Enthusiast
 
 <a href="https://app.daily.dev/sidharthd"><img src="https://api.daily.dev/devcards/v2/HraguiSmTS9NZpSqtiK9A.png?type=wide&r=3pt" width="652" alt="Sidharth D's Dev Card"/></a>
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Indian-otaku&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
-
 <a href="http://www.github.com/Sidharth-Darwin"><img src="https://github-readme-stats.vercel.app/api?username=Sidharth-Darwin&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sidharth-Darwin's GitHub stats" /></a>
 
 <a href="https://github.com/Sidharth-Darwin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidharth-Darwin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
